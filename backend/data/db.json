@@ -1,0 +1,611 @@
+{
+  "profiles": [
+    {
+      "id": "p1",
+      "name": "Aarav",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/600?img=1",
+      "bio": "Always looking for a new cafe and a good conversation.",
+      "city": "Delhi",
+      "interests": [
+        "Music",
+        "Movies",
+        "Fitness"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p2",
+      "name": "Ananya",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=2",
+      "bio": "Weekend explorer, weekday dreamer.",
+      "city": "Gurgaon",
+      "interests": [
+        "Travel",
+        "Photography",
+        "Food"
+      ],
+      "likedYou": true
+    },
+    {
+      "id": "p3",
+      "name": "Ishaan",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=3",
+      "bio": "Here for good music, better food and genuine people.",
+      "city": "Mumbai",
+      "interests": [
+        "Coffee",
+        "Books",
+        "Art"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p4",
+      "name": "Meera",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=4",
+      "bio": "A little introverted, very curious about the world.",
+      "city": "Bengaluru",
+      "interests": [
+        "Movies",
+        "Fitness",
+        "Cricket"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p5",
+      "name": "Kabir",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/600?img=5",
+      "bio": "Always looking for a new cafe and a good conversation.",
+      "city": "Pune",
+      "interests": [
+        "Photography",
+        "Food",
+        "Gaming"
+      ],
+      "likedYou": true
+    },
+    {
+      "id": "p6",
+      "name": "Riya",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/600?img=6",
+      "bio": "Weekend explorer, weekday dreamer.",
+      "city": "Jaipur",
+      "interests": [
+        "Books",
+        "Art",
+        "Hiking"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p7",
+      "name": "Vihaan",
+      "age": 27,
+      "photo": "https://i.pravatar.cc/600?img=7",
+      "bio": "Here for good music, better food and genuine people.",
+      "city": "Hyderabad",
+      "interests": [
+        "Fitness",
+        "Cricket",
+        "Music"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p8",
+      "name": "Aisha",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/600?img=8",
+      "bio": "A little introverted, very curious about the world.",
+      "city": "Chandigarh",
+      "interests": [
+        "Food",
+        "Gaming",
+        "Travel"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p9",
+      "name": "Arjun",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=9",
+      "bio": "Always looking for a new cafe and a good conversation.",
+      "city": "Delhi",
+      "interests": [
+        "Art",
+        "Hiking",
+        "Coffee"
+      ],
+      "likedYou": true
+    },
+    {
+      "id": "p10",
+      "name": "Sara",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=10",
+      "bio": "Weekend explorer, weekday dreamer.",
+      "city": "Gurgaon",
+      "interests": [
+        "Cricket",
+        "Music",
+        "Movies"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p11",
+      "name": "Reyansh",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=11",
+      "bio": "Here for good music, better food and genuine people.",
+      "city": "Mumbai",
+      "interests": [
+        "Gaming",
+        "Travel",
+        "Photography"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p12",
+      "name": "Diya",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/600?img=12",
+      "bio": "A little introverted, very curious about the world.",
+      "city": "Bengaluru",
+      "interests": [
+        "Hiking",
+        "Coffee",
+        "Books"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p13",
+      "name": "Advait",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/600?img=13",
+      "bio": "Always looking for a new cafe and a good conversation.",
+      "city": "Pune",
+      "interests": [
+        "Music",
+        "Movies",
+        "Fitness"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p14",
+      "name": "Kiara",
+      "age": 27,
+      "photo": "https://i.pravatar.cc/600?img=14",
+      "bio": "Weekend explorer, weekday dreamer.",
+      "city": "Jaipur",
+      "interests": [
+        "Travel",
+        "Photography",
+        "Food"
+      ],
+      "likedYou": true
+    },
+    {
+      "id": "p15",
+      "name": "Krish",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/600?img=15",
+      "bio": "Here for good music, better food and genuine people.",
+      "city": "Hyderabad",
+      "interests": [
+        "Coffee",
+        "Books",
+        "Art"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p16",
+      "name": "Myra",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=16",
+      "bio": "A little introverted, very curious about the world.",
+      "city": "Chandigarh",
+      "interests": [
+        "Movies",
+        "Fitness",
+        "Cricket"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p17",
+      "name": "Dev",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=17",
+      "bio": "Always looking for a new cafe and a good conversation.",
+      "city": "Delhi",
+      "interests": [
+        "Photography",
+        "Food",
+        "Gaming"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p18",
+      "name": "Tara",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=18",
+      "bio": "Weekend explorer, weekday dreamer.",
+      "city": "Gurgaon",
+      "interests": [
+        "Books",
+        "Art",
+        "Hiking"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p19",
+      "name": "Rohan",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/600?img=19",
+      "bio": "Here for good music, better food and genuine people.",
+      "city": "Mumbai",
+      "interests": [
+        "Fitness",
+        "Cricket",
+        "Music"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p20",
+      "name": "Ira",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/600?img=20",
+      "bio": "A little introverted, very curious about the world.",
+      "city": "Bengaluru",
+      "interests": [
+        "Food",
+        "Gaming",
+        "Travel"
+      ],
+      "likedYou": true
+    },
+    {
+      "id": "p21",
+      "name": "Neil",
+      "age": 27,
+      "photo": "https://i.pravatar.cc/600?img=21",
+      "bio": "Always looking for a new cafe and a good conversation.",
+      "city": "Pune",
+      "interests": [
+        "Art",
+        "Hiking",
+        "Coffee"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p22",
+      "name": "Zoya",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/600?img=22",
+      "bio": "Weekend explorer, weekday dreamer.",
+      "city": "Jaipur",
+      "interests": [
+        "Cricket",
+        "Music",
+        "Movies"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p23",
+      "name": "Aditya",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=23",
+      "bio": "Here for good music, better food and genuine people.",
+      "city": "Hyderabad",
+      "interests": [
+        "Gaming",
+        "Travel",
+        "Photography"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p24",
+      "name": "Naina",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=24",
+      "bio": "A little introverted, very curious about the world.",
+      "city": "Chandigarh",
+      "interests": [
+        "Hiking",
+        "Coffee",
+        "Books"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p25",
+      "name": "Samar",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=25",
+      "bio": "Always looking for a new cafe and a good conversation.",
+      "city": "Delhi",
+      "interests": [
+        "Music",
+        "Movies",
+        "Fitness"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p26",
+      "name": "Avni",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/600?img=26",
+      "bio": "Weekend explorer, weekday dreamer.",
+      "city": "Gurgaon",
+      "interests": [
+        "Travel",
+        "Photography",
+        "Food"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p27",
+      "name": "Yash",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/600?img=27",
+      "bio": "Here for good music, better food and genuine people.",
+      "city": "Mumbai",
+      "interests": [
+        "Coffee",
+        "Books",
+        "Art"
+      ],
+      "likedYou": true
+    },
+    {
+      "id": "p28",
+      "name": "Mahi",
+      "age": 27,
+      "photo": "https://i.pravatar.cc/600?img=28",
+      "bio": "A little introverted, very curious about the world.",
+      "city": "Bengaluru",
+      "interests": [
+        "Movies",
+        "Fitness",
+        "Cricket"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p29",
+      "name": "Ayaan",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/600?img=29",
+      "bio": "Always looking for a new cafe and a good conversation.",
+      "city": "Pune",
+      "interests": [
+        "Photography",
+        "Food",
+        "Gaming"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p30",
+      "name": "Siya",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=30",
+      "bio": "Weekend explorer, weekday dreamer.",
+      "city": "Jaipur",
+      "interests": [
+        "Books",
+        "Art",
+        "Hiking"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p31",
+      "name": "Dhruv",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=31",
+      "bio": "Here for good music, better food and genuine people.",
+      "city": "Hyderabad",
+      "interests": [
+        "Fitness",
+        "Cricket",
+        "Music"
+      ],
+      "likedYou": false
+    },
+    {
+      "id": "p32",
+      "name": "Jiya",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=32",
+      "bio": "A little introverted, very curious about the world.",
+      "city": "Chandigarh",
+      "interests": [
+        "Food",
+        "Gaming",
+        "Travel"
+      ],
+      "likedYou": false
+    }
+  ],
+  "swipes": [
+    {
+      "profileId": "p1",
+      "action": "pass",
+      "createdAt": "2026-11-18T17:20:52.489Z"
+    },
+    {
+      "profileId": "p2",
+      "action": "like",
+      "createdAt": "2026-11-18T17:20:56.360Z"
+    },
+    {
+      "profileId": "p3",
+      "action": "like",
+      "createdAt": "2026-11-18T17:21:01.361Z"
+    },
+    {
+      "profileId": "p4",
+      "action": "like",
+      "createdAt": "2026-11-18T17:21:05.915Z"
+    },
+    {
+      "profileId": "p5",
+      "action": "like",
+      "createdAt": "2026-11-18T17:21:12.116Z"
+    },
+    {
+      "profileId": "p6",
+      "action": "like",
+      "createdAt": "2026-11-18T17:21:15.112Z"
+    },
+    {
+      "profileId": "p7",
+      "action": "like",
+      "createdAt": "2026-11-18T17:21:16.296Z"
+    },
+    {
+      "profileId": "p8",
+      "action": "pass",
+      "createdAt": "2026-11-18T17:38:31.091Z"
+    },
+    {
+      "profileId": "p9",
+      "action": "pass",
+      "createdAt": "2026-11-18T17:38:32.755Z"
+    },
+    {
+      "profileId": "p10",
+      "action": "pass",
+      "createdAt": "2026-11-18T17:38:34.613Z"
+    },
+    {
+      "profileId": "p11",
+      "action": "like",
+      "createdAt": "2026-11-18T17:38:35.553Z"
+    },
+    {
+      "profileId": "p12",
+      "action": "pass",
+      "createdAt": "2026-11-18T17:38:36.765Z"
+    },
+    {
+      "profileId": "p13",
+      "action": "like",
+      "createdAt": "2026-11-18T17:38:37.521Z"
+    },
+    {
+      "profileId": "p14",
+      "action": "pass",
+      "createdAt": "2026-11-18T17:38:38.888Z"
+    },
+    {
+      "profileId": "p15",
+      "action": "like",
+      "createdAt": "2026-11-18T17:38:39.581Z"
+    },
+    {
+      "profileId": "p16",
+      "action": "pass",
+      "createdAt": "2026-11-18T17:38:40.811Z"
+    },
+    {
+      "profileId": "p17",
+      "action": "like",
+      "createdAt": "2026-11-18T17:38:41.703Z"
+    },
+    {
+      "profileId": "p18",
+      "action": "like",
+      "createdAt": "2026-11-18T17:38:44.291Z"
+    },
+    {
+      "profileId": "p19",
+      "action": "like",
+      "createdAt": "2026-11-18T17:38:52.042Z"
+    },
+    {
+      "profileId": "p20",
+      "action": "like",
+      "createdAt": "2026-11-18T17:38:53.513Z"
+    },
+    {
+      "profileId": "p21",
+      "action": "like",
+      "createdAt": "2026-11-18T17:39:07.297Z"
+    },
+    {
+      "profileId": "p22",
+      "action": "like",
+      "createdAt": "2026-11-18T17:39:08.358Z"
+    },
+    {
+      "profileId": "p23",
+      "action": "like",
+      "createdAt": "2026-11-18T17:39:09.249Z"
+    },
+    {
+      "profileId": "p24",
+      "action": "like",
+      "createdAt": "2026-11-18T17:39:10.198Z"
+    },
+    {
+      "profileId": "p25",
+      "action": "like",
+      "createdAt": "2026-11-18T17:39:11.337Z"
+    },
+    {
+      "profileId": "p26",
+      "action": "like",
+      "createdAt": "2026-11-18T17:39:12.575Z"
+    },
+    {
+      "profileId": "p27",
+      "action": "like",
+      "createdAt": "2026-11-18T17:39:13.305Z"
+    }
+  ],
+  "matches": [
+    {
+      "id": "m_p2",
+      "profileId": "p2",
+      "createdAt": "2026-11-18T17:20:56.361Z"
+    },
+    {
+      "id": "m_p5",
+      "profileId": "p5",
+      "createdAt": "2026-11-18T17:21:12.116Z"
+    },
+    {
+      "id": "m_p20",
+      "profileId": "p20",
+      "createdAt": "2026-11-18T17:38:53.513Z"
+    },
+    {
+      "id": "m_p27",
+      "profileId": "p27",
+      "createdAt": "2026-11-18T17:39:13.305Z"
+    }
+  ]
+}
